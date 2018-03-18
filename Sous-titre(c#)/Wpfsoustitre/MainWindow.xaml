@@ -1,0 +1,44 @@
+﻿<Window x:Class="Wpfsoustitre.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfsoustitre"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="583.166" Width="835.414">
+    <Grid Margin="-2,0,-20,18" RenderTransformOrigin="0.5,0.5">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-0.059"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="791*"/>
+            <ColumnDefinition Width="47*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Play" HorizontalAlignment="Left" Height="40" Margin="9,20,0,0" VerticalAlignment="Top" Width="37" Click="Button_Click" Grid.Column="1" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.825"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Border  Height="431"   Width="724" Grid.Column="1" Grid.ColumnSpan="2" Background="#FF080808">
+            <MediaElement x:Name="film"  Height="431"   Width="724" Grid.Column="1" Grid.ColumnSpan="2">
+                <MediaElement.OpacityMask>
+                    <SolidColorBrush Color="#FF0E0D0D"/>
+                </MediaElement.OpacityMask>
+            </MediaElement>
+        </Border>
+        <TextBlock x:Name="Textbox" Grid.Column="1" Height="56"  TextWrapping="Wrap" Text="" FontFamily="Segoe UI Symbol" Foreground="White" RenderTransformOrigin="0.508,0.518" Margin="151,418,67,60" TextAlignment="Center"/>
+
+
+    </Grid>
+</Window>

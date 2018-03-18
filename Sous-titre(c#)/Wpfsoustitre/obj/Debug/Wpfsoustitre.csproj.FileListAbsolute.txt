@@ -1,0 +1,15 @@
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\bin\Debug\Wpfsoustitre.exe.config
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\bin\Debug\Wpfsoustitre.exe
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\bin\Debug\Wpfsoustitre.pdb
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.csprojResolveAssemblyReference.cache
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\MainWindow.g.cs
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\App.g.cs
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre_MarkupCompile.cache
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre_MarkupCompile.lref
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\MainWindow.baml
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.g.resources
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.Properties.Resources.resources
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.csproj.GenerateResource.Cache
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.csproj.CoreCompileInputs.cache
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.exe
+c:\users\antoine\source\repos\Wpfsoustitre\Wpfsoustitre\obj\Debug\Wpfsoustitre.pdb
